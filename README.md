@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 , Eu sou Leandro Ferreira Nascimento</h1><h3 align="center">Automatizando tarefas e simplificando processos com Python</h3>
 
 
-- 🔭 SAtualmente estou desenvolvendo projetos pessoais de automação usando Python, com foco na construção de ferramentas para realizar tarefas repetitivas em ambientes de trabalho. Meus projetos mais recentes incluem automação web, manipulação de dados e integração de APIs, destacando-se:
+- 🔭 Atualmente estou desenvolvendo projetos pessoais de automação usando Python, com foco na construção de ferramentas para realizar tarefas repetitivas em ambientes de trabalho. Meus projetos mais recentes incluem automação web, manipulação de dados e integração de APIs, destacando-se:
 
 Automação Web e Busca de Informações com Python: Projeto que automatiza a busca e extração de informações em sites e documentos.
 Estou aprendendo e aprimorando minhas habilidades em Python, PyAutoGUI, Selenium e análise de dados. Minhas áreas de interesse incluem Python, SQL e Excel.
