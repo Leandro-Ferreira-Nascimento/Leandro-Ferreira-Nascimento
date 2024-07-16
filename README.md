@@ -4,7 +4,7 @@
 
 - **[Automação Web e Busca de Informações com Python](https://github.com/Leandro-Ferreira-Nascimento/Automa--o_Web_e_Busca_de_Informa--es):** Projeto que automatiza a busca e extração de informações em sites e documentos.
 
-Estou aprendendo e aprimorando minhas habilidades em **Python**, **HTML**, **javascript** **PyAutoGUI**, **Selenium** e análise de dados. Minhas áreas de interesse incluem , **SQL** e **Excel**, **HTML**, **javascript**.
+Estou aprendendo e aprimorando minhas habilidades em **Python**, **HTML**, **javascript** **PyAutoGUI**, **Selenium** e análise de dados. Minhas áreas de interesse incluem , **SQL** e **Excel**, **HTML**, **Javascript**.
 
 Atualmente, estou cursando o segundo semestre de **Análise de Sistemas** na **Universidade Cruzeiro do Sul** e realizando dois cursos: **Hashtag Treinamentos** e **Devaprender**, este último voltado para **Automação e Bots**.
 
