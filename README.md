@@ -1,15 +1,18 @@
 <h1 align="center">Oi 👋 , Eu sou Leandro Ferreira Nascimento</h1><h3 align="center">Automatizando tarefas e simplificando processos com Python</h3>
 
 
-- 🔭 Atualmente estou desenvolvendo projetos pessoais de automação usando Python, com foco na construção de ferramentas para realizar tarefas repetitivas em ambientes de trabalho. Meus projetos mais recentes incluem automação web, manipulação de dados e integração de APIs, destacando-se:
-
-Automação Web e Busca de Informações com Python: Projeto que automatiza a busca e extração de informações em sites e documentos.
-Estou aprendendo e aprimorando minhas habilidades em Python, PyAutoGUI, Selenium e análise de dados. Minhas áreas de interesse incluem Python, SQL e Excel.
-
-Atualmente, estou cursando o segundo semestre de Análise de Sistemas na Universidade Cruzeiro do Sul.
-
-Entre em contato comigo através do e-mail **leandroenghn@hotmail.com**
-
+- 🔭 Olá! 👋
+🔭 Atualmente estou desenvolvendo projetos pessoais de automação usando Python, com foco na construção de ferramentas para realizar tarefas repetitivas em ambientes de trabalho. Meus projetos mais recentes incluem:
+Automação Web e Busca de Informações com Python: Automatiza a busca e extração de informações em sites e documentos.
+Manipulação de Dados e Integração de APIs: Trabalhando na integração com APIs e manipulação de dados para gerar insights valiosos.
+📚 Aprendendo e aprimorando minhas habilidades em:
+Python
+PyAutoGUI
+Selenium
+Análise de Dados
+SQL e Excel
+🎓 Atualmente, estou cursando o segundo semestre de Análise de Sistemas na Universidade Cruzeiro do Sul, onde estou desenvolvendo uma base sólida em programação e sistemas de informação.
+📫 Entre em contato comigo através do e-mail leandroenghn@hotmail.com
 
 
 
