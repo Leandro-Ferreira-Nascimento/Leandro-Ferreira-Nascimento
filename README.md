@@ -1,14 +1,15 @@
 # Olá, eu sou Leandro Ferreira!
 
-🔭 Atualmente estou desenvolvendo projetos pessoais de automação usando Python, com foco na construção de ferramentas para realizar tarefas repetitivas em ambientes de trabalho. Meus projetos mais recentes incluem automação web, manipulação de dados e integração de APIs, destacando-se:
+🔭 Atualmente, estou focado no desenvolvimento de automações com **Python** e outras tecnologias para otimizar tarefas repetitivas e aprimorar processos. Minhas áreas de interesse incluem **desenvolvimento de software** e **automação**.
 
-- **[Automação Web e Busca de Informações com Python](https://github.com/Leandro-Ferreira-Nascimento/Automa--o_Web_e_Busca_de_Informa--es):** Projeto que automatiza a busca e extração de informações em sites e documentos.
+Estou aprendendo e aprimorando minhas habilidades em **Python**, **PyAutoGUI**, **Selenium**, **Pandas**, **HTML**, **JavaScript** e **SQL**. Também participo de diversos bootcamps para me manter atualizado com as principais ferramentas e tendências do mercado.
 
-Estou aprendendo e aprimorando minhas habilidades em **Python**, **PyAutoGUI**, **Selenium**, **Pandas**, **HTML**, **JavaScript** e análise de dados. Minhas áreas de interesse incluem **Python**, **SQL** e **Excel**.
+Atualmente, estou cursando o segundo semestre de **Análise de Sistemas** na **Universidade Cruzeiro do Sul**, e realizando cursos como **Hashtag Treinamentos** e **Devaprender**, voltados para **Automação e Bots**.
 
-Atualmente, estou cursando o segundo semestre de **Análise de Sistemas** na **Universidade Cruzeiro do Sul** e realizando dois cursos: **Hashtag Treinamentos** e **Devaprender**, este último voltado para **Automação e Bots**.
+## 🌐 Portfólio e Experiências:
 
-Entre em contato comigo através do e-mail [leandroenghn@hotmail.com](mailto:leandroenghn@hotmail.com)
+- Meu portfólio completo: [Meu Portfólio](https://rittvleandro06.wixsite.com/leandro-ferreira-n-3leandro-ferreira-n)
+- Meu perfil na Dio. : [Leandro Nascimento na Dio](https://web.dio.me/users/leandro_nascimento79)
 
 ## 🛠️ Linguagens e Tecnologias:
 
@@ -21,10 +22,10 @@ Entre em contato comigo através do e-mail [leandroenghn@hotmail.com](mailto:lea
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📚 Projetos:
+---
 
-- [Automação Web e Busca de Informações com Python](https://github.com/Leandro-Ferreira-Nascimento/Automa--o_Web_e_Busca_de_Informa--es)
+Estou sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia. Explore meu portfólio e entre em contato!
 
-🔗 Minhas Experiências e Conexões: [www.linkedin.com/in/leandro-ferreira-hn](https://www.linkedin.com/in/leandro-ferreira-hn)
+✉️ Email: [leandroenghn@hotmail.com](mailto:leandroenghn@hotmail.com)  
+🔗 LinkedIn: [Leandro Ferreira](https://www.linkedin.com/in/leandro-ferreira-hn)
 
-Estou sempre em busca de novos desafios e oportunidades de crescimento na área de tecnologia. Sinta-se à vontade para explorar meus projetos e entrar em contato!
