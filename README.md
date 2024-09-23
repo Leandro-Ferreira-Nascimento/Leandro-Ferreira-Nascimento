@@ -4,7 +4,7 @@
 
 Estou aprendendo e aprimorando minhas habilidades em **Python**, **PyAutoGUI**, **Selenium**, **Pandas**, **HTML**, **JavaScript** e **SQL**. Também participo de diversos bootcamps para me manter atualizado com as principais ferramentas e tendências do mercado.
 
-Atualmente, estou cursando o segundo semestre de **Análise de Sistemas** na **Universidade Cruzeiro do Sul**, e realizando cursos como **Hashtag Treinamentos** e **Devaprender**, voltados para **Automação e Bots**.
+Atualmente, estou cursando o segundo semestre de **Análise de Sistemas** na **Universidade Cruzeiro do Sul**, e realizando cursos como **Hashtag Treinamentos** e **Devaprender**, voltados para **Automação, Bots e Análise de dados**.
 
 ## 🌐 Portfólio e Experiências:
 
